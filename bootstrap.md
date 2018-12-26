@@ -1,7 +1,7 @@
 
 # Bootstrap Code
 
-## Vertically Center**
+## Vertically Center
 
 ### css
 ```
