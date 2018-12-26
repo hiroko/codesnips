@@ -1,19 +1,22 @@
 
-### Bootstrap Code
+# Bootstrap Code
 
-**Vertically Center**
+## Vertically Center**
 
-*css*
-[code]
+### css
+```
 .vertical-center {
   min-height: 100%;
   min-height: 100vh;
   display: flex;
   align-items: center;
-}[/code]
+}
+```
 
-*HTML*
-[code]<div class="vertical-center">[/code]
+### HTML
+```
+<div class="vertical-center">
+```
 
-*source*
+### source
 * [Stackoverflow](https://stackoverflow.com/questions/22196587/how-to-center-align-vertically-the-container-in-bootstrap)
