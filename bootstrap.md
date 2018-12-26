@@ -4,15 +4,16 @@
 **Vertically Center**
 
 *css*
-
+[code]
 .vertical-center {
-  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
-  min-height: 100vh; /* These two lines are counted as one :-)       */
-
+  min-height: 100%;
+  min-height: 100vh;
   display: flex;
   align-items: center;
-}
+}[/code]
 
 *HTML*
+[code]<div class="vertical-center">[/code]
 
-<div class="vertical-center">
+*source*
+* [Stackoverflow](https://stackoverflow.com/questions/22196587/how-to-center-align-vertically-the-container-in-bootstrap)
